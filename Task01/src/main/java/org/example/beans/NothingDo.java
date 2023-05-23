@@ -10,7 +10,11 @@ import org.springframework.stereotype.Component;
 @NoArgsConstructor
 @Data
 @Component
-public class MyBeanAutoConfiguration {
-    private String name = "Auto";
-    private int age = 24;
+public class NothingDo implements Action {
+    private String action = "Гоняем балду";
+
+    @Override
+    public String toString() {
+        return action;
+    }
 }
