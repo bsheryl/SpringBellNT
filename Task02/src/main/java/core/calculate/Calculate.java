@@ -1,8 +1,8 @@
-package org.example.calculate;
+package core.calculate;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.example.actions.Action;
+import core.actions.Action;
 
 import java.util.Map;
 

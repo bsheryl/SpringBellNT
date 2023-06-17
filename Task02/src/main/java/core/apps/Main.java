@@ -1,11 +1,11 @@
-package org.example.apps;
+package core.apps;
 
-import org.example.actions.Division;
-import org.example.actions.Multiplication;
-import org.example.actions.Subtraction;
-import org.example.actions.Sum;
-import org.example.calculate.Calculate;
-import org.example.reader.Reader;
+import core.actions.Division;
+import core.actions.Multiplication;
+import core.actions.Subtraction;
+import core.actions.Sum;
+import core.calculate.Calculate;
+import core.reader.Reader;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

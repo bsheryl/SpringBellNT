@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vasya",
+    "age": 20,
+    "profession": "junior"
+  },
+  {
+    "name": "Petya",
+    "age": 25,
+    "profession": "middle"
+  },
+  {
+    "name": "Petrovich",
+    "age": 30,
+    "profession": "senior"
+  }
+]

@@ -1,4 +1,4 @@
-package org.example.beans;
+package core.beans;
 
 import lombok.*;
 import org.springframework.stereotype.Component;
@@ -10,8 +10,8 @@ import org.springframework.stereotype.Component;
 @NoArgsConstructor
 @Data
 @Component
-public class WatchMovie implements Action {
-    private String action = "Смотрим фильм";
+public class PlayGame implements Action {
+    private String action = "Играем в игру";
 
     @Override
     public String toString() {

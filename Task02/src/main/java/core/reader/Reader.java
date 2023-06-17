@@ -1,6 +1,6 @@
-package org.example.reader;
+package core.reader;
 
-import org.example.calculate.Calculate;
+import core.calculate.Calculate;
 
 import java.util.Scanner;
 

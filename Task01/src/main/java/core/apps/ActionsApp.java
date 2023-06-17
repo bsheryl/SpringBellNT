@@ -1,6 +1,6 @@
-package org.example.apps;
+package core.apps;
 
-import org.example.beans.*;
+import core.beans.*;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
