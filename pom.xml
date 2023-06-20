@@ -12,6 +12,7 @@
         <module>Task01</module>
         <module>Task02</module>
         <module>Task03</module>
+        <module>Task04</module>
     </modules>
 
     <parent>
